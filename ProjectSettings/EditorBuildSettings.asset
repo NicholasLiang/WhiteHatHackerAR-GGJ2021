@@ -15,6 +15,6 @@ EditorBuildSettings:
     path: Assets/__Scenes/02_Building.unity
     guid: 933223b9e0534d74bb7bbd4a71a5bd82
   - enabled: 1
-    path: Assets/__Scenes/03_FlashPlayerPhishingAttack.unity
-    guid: 6d50c130b227d7744b9b9b716be326ee
+    path: Assets/__Scenes/04_FloppyFrog.unity
+    guid: 11043f537539fe84c81a52f5142bb9b2
   m_configObjects: {}
